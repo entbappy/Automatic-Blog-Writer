@@ -9,6 +9,7 @@ list_of_files = [
     ".github/workflows/.gitkeep",
     "backend/generate_blog.py",
     "app.py",
+    "endpoint.py",
     ".env",
     "Dockerfile",
     "requirements.txt",

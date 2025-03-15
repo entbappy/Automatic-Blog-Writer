@@ -1,0 +1,7 @@
+openai==0.28.0
+flask 
+langchain 
+beautifulsoup4 
+scrapy 
+streamlit 
+python-dotenv
